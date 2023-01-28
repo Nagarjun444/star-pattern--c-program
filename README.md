@@ -1,2 +1,2 @@
-# matrix-c-program
-matrix c program 5:5
+# star pattern-c-program
+star pattern c program 5:5
